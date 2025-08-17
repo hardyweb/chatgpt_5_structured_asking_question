@@ -2,9 +2,10 @@
 
 This repo shares a structured method for asking ChatGPT better questions to build systems faster.
 
-[Messy] ──refine──► [Structured] ──run──► [Better Output]
-    ▲                               │
-    └───────────────feedback────────┘   (iterate to improve)
++----------------+      +----------------------+      +-----------------+
+|  Messy input   |  →   |  Structured prompt   |  →   |  Better output  |
+| (vague, long)  |      | (context+goal+format)|      | (clear, usable) |
++----------------+      +----------------------+      +-----------------+
 
 Developers love practical samples. For example:
 
