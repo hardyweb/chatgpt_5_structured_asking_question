@@ -104,7 +104,7 @@ Exmaple
 <frontend_stack_defaults>
 - Syling: tailwindCSS
 </frontend_stack_defaults>
-```
+
 
 <other_instructions>
 - create all func in main.go
@@ -112,3 +112,4 @@ Exmaple
 </code_editing_rules>
 
 </code>
+```
