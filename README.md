@@ -2,18 +2,6 @@
 
 This repo shares a structured method for asking ChatGPT better questions to build systems faster.
 
- Messy question
- (unclear goal, missing context)
-          │
-          ▼
- Structured question
- [Context]   who/what/where
- [Goal]      what to achieve
- [Constraints] limits, tools, stack
- [Output]    format, fields, style
-          │
-          ▼
- Better output (actionable, reproducible)
  
 
 Developers love practical samples. For example:
