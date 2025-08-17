@@ -1,6 +1,18 @@
 # chatgpt_5_structured_asking_question
 
-How to ask ChatGPT 5 In structured Way 
+This repo shares a structured method for asking ChatGPT better questions to build systems faster.
+
+[Messy] ──refine──► [Structured] ──run──► [Better Output]
+    ▲                               │
+    └───────────────feedback────────┘   (iterate to improve)
+
+Developers love practical samples. For example:
+
+Laravel backend API prompt
+
+Go microservice prompt
+
+DevOps automation SOP prompt
 
 
 ## In development 
